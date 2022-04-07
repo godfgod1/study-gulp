@@ -1,0 +1,18 @@
+{
+  "name": "study-gulp",
+  "version": "1.0.0",
+  "description": "learn gulp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godfgod1/study-gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godfgod1/study-gulp/issues"
+  },
+  "homepage": "https://github.com/godfgod1/study-gulp#readme"
+}
